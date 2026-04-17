@@ -1,5 +1,5 @@
 """
-Veri Madenciliği Uygulamaları
+Veri Madenciliği ve Uygulamaları
 Hüseyin GÖKALP — 2540138002 — SDÜ
 
 import subprocess, sys

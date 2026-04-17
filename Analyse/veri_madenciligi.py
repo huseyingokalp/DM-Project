@@ -1,16 +1,16 @@
 """
 Veri Madenciliği ve Uygulamaları
-Hüseyin GÖKALP — 2540138002 — SDÜ
+Hüseyin GÖKALP - 2540138002
 
 import subprocess, sys
-# mlxtend kurulumu — düzeltilmiş komut
+# mlxtend kurulumu
 subprocess.run([sys.executable, "-m", "pip", "install", "mlxtend",
                 "--break-system-packages", "-q"], check=True)
 
 import numpy as np
 import pandas as pd
 import matplotlib
-matplotlib.use('Agg')          # dosyaya kaydet, ekran gösterme
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import seaborn as sns
 import math, warnings

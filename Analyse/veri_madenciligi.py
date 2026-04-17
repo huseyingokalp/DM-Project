@@ -1,6 +1,7 @@
 """
 Veri Madenciliği ve Uygulamaları
 Hüseyin GÖKALP - 2540138002
+"""
 
 import subprocess, sys
 # mlxtend kurulumu

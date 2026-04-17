@@ -1,6 +1,11 @@
 """
-Veri Madenciliği Uygulamaları
-Hüseyin GÖKALP — 2540138002 — SDÜ
+=============================================================================
+Karar Ağaçları Analizi - Sınıflandırma ve Regresyon
+=============================================================================
+Ders    : 11117BLG014 - Veri Madenciliği ve Uygulamaları
+Dönem   : 2025-2026 Bahar - Vize Ödevi
+Öğrenci : Hüseyin GÖKALP (2540138002)
+Konu    : 1. Ödev – Veri Madenciliği
 """
 
 import subprocess, sys

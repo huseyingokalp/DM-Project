@@ -39,7 +39,7 @@ from sklearn.metrics import (confusion_matrix, classification_report, roc_curve,
                              average_precision_score, accuracy_score)
 from sklearn.decomposition import PCA
 
-FIG_DIR = "/figures"
+FIG_DIR = "./figures"
 fig_counter = [0]
 
 def savefig(name):
